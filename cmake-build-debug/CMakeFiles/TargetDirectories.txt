@@ -1,0 +1,3 @@
+/home/edmond/ki/5/pg2/exercises/template-linked-list/cmake-build-debug/CMakeFiles/template_linked_list.dir
+/home/edmond/ki/5/pg2/exercises/template-linked-list/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/edmond/ki/5/pg2/exercises/template-linked-list/cmake-build-debug/CMakeFiles/rebuild_cache.dir
